@@ -1,4 +1,8 @@
-# Cloning and Branching
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+
+---
+
+## Cloning and Branching
 
 <a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
@@ -50,4 +54,4 @@ To "save" changes:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/06_version_control.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/06_version_control.md" > Continue to Next Topic </a>
