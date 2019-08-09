@@ -1,6 +1,8 @@
 # ![](/assets/logo@2x.png)
 
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+---
+|[Return to TOC](00-Table-of-Contents.md)|
+|---|
 
 * Introduction
 * Key Concepts
@@ -16,4 +18,5 @@ Git Reference:
 
 ---
 
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/01_Introduction.md" > Continue to Next Topic </a>
+|[Next Page](01_Introduction.md)|
+|------|
