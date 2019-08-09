@@ -54,4 +54,4 @@ Working on a team, you get an even wider range of benefits when using Git to kee
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/02_key_concepts.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/02_key_concepts.md" > Continue to Next Topic </a>
