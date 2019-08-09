@@ -1,6 +1,8 @@
-# Creating a New Repository
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Creating a New Repository
 
 #### Root Repository or Master Branch
 
@@ -31,11 +33,6 @@ git config --global user.name "Firstname Lastname"
 git config --global user.email username@email.com
 ```
 
-
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/04_creating_a_repo.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
-
-
 ###### Reference: [Additional Git Config Settings](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ###### 
@@ -60,9 +57,9 @@ This will show you the status of your repository and also we can use it to verif
 >
 **Git global setup**
 >
-> git config --global user.name "Robert Jakob"
+> git config --global user.name "John Smith"
 >
-> git config --global user.email "rsjakob@outlook.com"  
+> git config --global user.email "JASmith@outlook.com"  
 
 ## **Utilize one of the following three options**
 
@@ -144,4 +141,4 @@ For more information on **git config:**
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/05_branching.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/05_branching.md" > Continue to Next Topic </a>
