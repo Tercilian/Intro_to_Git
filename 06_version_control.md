@@ -1,6 +1,8 @@
-# Introduction to Version Control
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Introduction to Version Control
 
 ---
 
@@ -123,5 +125,7 @@ Now that we've gone over the basics for git you may be overwhelmed. That is ok, 
 > git push origin --delete &lt;your branch name>
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/07_resources.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/07_resources.md" > Continue to Next Topic </a>
+
+---
 
