@@ -142,5 +142,5 @@ For more information on **git config:**
 
 ---
 
-|[Branching](05_branching.md)|
+|[Next Topic](05_branching.md)|
 |---|
