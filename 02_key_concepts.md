@@ -1,6 +1,8 @@
-# Key Concepts
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Key Concepts
 
 **Commit**
 
@@ -44,4 +46,4 @@ Sometimes you don’t have the necessary permission to make changes directly to 
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/03_download_git.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/03_download_git.md" > Continue to Next Topic </a>
