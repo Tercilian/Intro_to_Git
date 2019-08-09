@@ -1,4 +1,5 @@
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Return to TOC](00-Table-of-Contents)|
+|---|
 
 ---
 
@@ -54,4 +55,5 @@ To "save" changes:
 
 ---
 
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/06_version_control.md" > Continue to Next Topic </a>
+|[Version Control](06_version_control.md)|
+|---|
