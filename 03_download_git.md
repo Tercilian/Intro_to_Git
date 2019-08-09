@@ -33,6 +33,3 @@ Once the download has completed start the **Git Setup** and follow the prompts a
 ---
 |[Continue to Next Topic](04_creating_a_repo.md)|
 |---|
-
-
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/04_creating_a_repo.md" > Continue to Next Topic </a>
