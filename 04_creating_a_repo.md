@@ -1,4 +1,5 @@
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Return to TOC](00-Table-of-Contents)|
+|---|
 
 ---
 
@@ -141,4 +142,5 @@ For more information on **git config:**
 
 ---
 
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/05_branching.md" > Continue to Next Topic </a>
+|[Branching](05_branching.md)|
+|---|
