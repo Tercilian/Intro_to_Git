@@ -1,4 +1,5 @@
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Return to TOC](00-Table-of-Contents)|
+|---|
 
 ---
 
@@ -125,7 +126,6 @@ Now that we've gone over the basics for git you may be overwhelmed. That is ok, 
 > git push origin --delete &lt;your branch name>
 
 ---
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/07_resources.md" > Continue to Next Topic </a>
 
----
-
+|[Resources](07_resources.md)|
+|---|
