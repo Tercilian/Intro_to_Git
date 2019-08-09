@@ -1,4 +1,5 @@
- [Return to TOC](00-Table-of-Contents.md)
+|[Return to TOC](00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -54,5 +55,5 @@ Working on a team, you get an even wider range of benefits when using Git to kee
 
 ---
 
-|[Next Page](02_key_concepts.md)|
+|[Next Topic](02_key_concepts.md)|
 |---|
