@@ -55,5 +55,5 @@ To "save" changes:
 
 ---
 
-|[Version Control](06_version_control.md)|
+|[Next Topic](06_version_control.md)|
 |---|
