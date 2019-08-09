@@ -47,4 +47,5 @@ Sometimes you don’t have the necessary permission to make changes directly to 
 
 ---
 
-[Next Topic](03_download_git.md)
+|[Next Topic](03_download_git.md)|
+|---|
