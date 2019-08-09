@@ -1,4 +1,4 @@
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+ [Return to TOC](00-Table-of-Contents.md)
 
 ---
 
@@ -54,4 +54,4 @@ Working on a team, you get an even wider range of benefits when using Git to kee
 
 ---
 
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/02_key_concepts.md" > Continue to Next Topic </a>
+| [Next Page](02_key_concepts.md)|
