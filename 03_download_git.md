@@ -1,4 +1,5 @@
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Return to TOC](00-Table-of-Contents)|
+|---|
 
 ---
 
@@ -31,5 +32,5 @@ Once the download has completed start the **Git Setup** and follow the prompts a
 ![](/assets/27.PNG)
 
 ---
-|[Continue to Next Topic](04_creating_a_repo.md)|
+|[Next Topic](04_creating_a_repo.md)|
 |---|
