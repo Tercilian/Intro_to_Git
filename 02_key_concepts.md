@@ -1,4 +1,5 @@
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to TOC](00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -46,4 +47,4 @@ Sometimes you don’t have the necessary permission to make changes directly to 
 
 ---
 
-<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/03_download_git.md" > Continue to Next Topic </a>
+[Next Topic](03_download_git.md)
