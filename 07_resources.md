@@ -1,6 +1,8 @@
-# Resources.md
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Resources.md
 
 **Read Me File:**  This file provides an introduction to the project and additional information that may be useful to collaborators, such as how to install the software, how to run any automated tests, how to use the code, and how to make contributions to the project.
 
@@ -19,6 +21,9 @@
 ---
 **End of Introduction to Git**
 
-<a href="https://github.com/CyberTrainingUSAF/04-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" rel="Continue to IDE's & Algorithms subject"> Go to IDE's & Algorithms subject </a>
+This Completes your introduction to Git.  Remember that there is no better way to learn something than by DOING. By experimenting with Git and reviewing online resources you will continue to improve your Git knowledge and Skills.  GOOD LUCK! 
 
-<a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md" rel="Return to Course Introduction"> Return to Course introduction </a>
+---
+
+|<a href="https://github.com/Tercileon/A-La-Cart" > Return to A-La-Cart </a>|
+|---|
