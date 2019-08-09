@@ -1,6 +1,6 @@
 # Introduction to Git
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 ![](/assets/28.png)
 
