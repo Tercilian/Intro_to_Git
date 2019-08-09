@@ -16,4 +16,4 @@ Git Reference:
 
 ---
 
-<a href="https://github.com/Tercileon/03-Introduction-to-Git/blob/master/01_Introduction.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/Tercileon/Intro_to_Git/blob/master/01_Introduction.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
