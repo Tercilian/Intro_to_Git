@@ -127,5 +127,5 @@ Now that we've gone over the basics for git you may be overwhelmed. That is ok, 
 
 ---
 
-|[Resources](07_resources.md)|
+|[Next Topic](07_resources.md)|
 |---|
